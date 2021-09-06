@@ -6,6 +6,9 @@
 }
 
 /* 노말라이즈 */
+html {
+  overflow: hidden;
+}
 body, ul, li {
   list-style:none;
   padding:0;
